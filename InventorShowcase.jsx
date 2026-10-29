@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import Breadcrumb from "../../src/shared/Breadcrumb.jsx";
+import Breadcrumb from "./Breadcrumb.jsx";
 import part from "./part.json";
 
 const translations = {
